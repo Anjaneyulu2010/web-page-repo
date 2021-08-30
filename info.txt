@@ -1,0 +1,56 @@
+
+1).what is microservices principles ?
+
+2).what are main differences between microservices and monolithic architecture ?
+
+
+3).how many ways to communicate microservices in java ?
+
+4).how to make microservices asynchronous in java ?
+
+5).what is swagger api ?
+
+
+6).jwt microservices  ?
+
+
+7).eureka server and client example
+
+
+8).load balancer in microservices  
+
+
+9).api gateway in microservices
+
+
+10).message driven approach in microservices with exmple 
+
+
+11).dis advtantages of Microservices  
+
+
+12).What is rest Microervices ?
+
+13). What is difference between Getmapping and postMapping , delet..,path,..
+
+14).what is path param and queery param anntotaions
+  
+
+15).What is hystrix circuit breaker microservices(open closed principle) 
+
+
+16).communation between docker to jenkine server (optional)
+
+
+17).jenkines to svn/git code integeration 
+
+18).exception handling microservices
+
+
+
+***** spring boot annotaions with examples 
+
+
+***  java 8 examples 
+
+
